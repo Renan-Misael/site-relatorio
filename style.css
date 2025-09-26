@@ -119,7 +119,7 @@ main {
 }
 
 .bg-dark {
-    background-color: var(#490d75c7);
+    background-color: var(--cor-fundo-escuro);
     color: var(--cor-branca);
 }
 
